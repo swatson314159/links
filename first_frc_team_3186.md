@@ -1,4 +1,9 @@
+## 2021-12-04
+sign up for an onshape account
 https://cad.onshape.com/documents?resourceType=filter&nodeId=1
+
+I’m very impressed with this video/tutorial!  From start to almost finished, creating a robot drive-train/base in ~30 minutes in Onshape. Looks very doable for us. https://www.youtube.com/watch?v=6nJvZZfA2sU   They start the build at ~18:30 mark if you’re in a hurry and you don’t care about the presenter and onshape introduction.  At the very least, this should be good inspiration for the steps/process that goes into creating a similar model in SolidWorks or other software, but the specific clicks will be a little different.
+
 
 ## 2021-11-22
 Sam is giving some talks and others look interesting too... CAD, manufacturing, etc...
