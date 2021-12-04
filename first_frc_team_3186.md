@@ -1,3 +1,4 @@
+https://cad.onshape.com/documents?resourceType=filter&nodeId=1
 
 ## 2021-11-22
 Sam is giving some talks and others look interesting too... CAD, manufacturing, etc...
